@@ -1,0 +1,227 @@
+/* **************** */
+/* DESKTOP-ONLY CSS */
+/* **************** */
+@media screen and (min-width: 650px) {
+
+    div#content {
+        margin-left: 100px;
+        margin-right: 100px;
+        padding-left: 0;
+        line-height: 130%; /* see A/B tests */
+    }
+
+    #header {
+        margin-bottom: 15px;
+    }
+
+    div#main {
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+        border: none;
+    }
+
+
+    /* uses up too much horizontal whitespace by default: */
+    blockquote { margin-left: 10px; }
+    blockquote blockquote { margin-left: 10px; }
+
+    div#nav li {
+      display: inline-block;
+      width: 120px;
+      line-height: 40px;
+      height: 40px;
+      border-bottom: none;
+    }
+    div#nav ul {
+      margin: 0;
+      margin-left: 100px;
+      margin-right: 100px;
+      padding: 0;
+    }
+
+
+}
+
+/* **************** */
+/* MOBILE-ONLY CSS */
+/* **************** */
+@media screen and (max-width: 649px) {
+  div#nav {
+      padding: 0.5em;
+
+
+      /* SIDEBAR: add most of the fanciness, particularly the 'block' display which uses up vertical whitespace,
+       *  which we can afford on the desktop. */
+      /* We want descriptions and tags to be hyphenated/broken
+       * when they are too long, otherwise they spill onto the
+       * body text, which is ugly and unreadable.
+       *
+       * CSS courtesy of http://blog.kenneth.io/blog/2012/03/04/word-wrapping-hypernation-using-css/ */
+  word-break: break-all;
+  }
+  div#nav li {
+
+
+    line-height: 40px;
+    height: 40px;
+    border-bottom: 1px solid #888;
+  }
+
+  div#nav ul {
+    padding: 0;
+    margin: 0;
+  }
+
+}
+
+/* ********************** */
+/* DEVICE-INDEPENDENT CSS */
+/* ********************** */
+div#nav ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+
+}
+
+
+div#nav a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  transition: .3s background-color;
+}
+div#nav a:hover {
+  background-color: #005f5f;
+
+}
+div#nav a.active {
+    background-color: #fff;
+    color: #000;
+  }
+html {
+    padding: 0px;
+    margin: 0px;
+
+    /* see A/B tests */
+    background-color: white;
+    color: black;
+
+    /* no size set for the font; see A/B tests */
+
+    /* see A/B tests */
+    font-family: Baskerville, Trebuchet, Georgia, Arial, "Lucida Grande", garamond, palatino, verdana;
+}
+
+body {
+    margin: 1px;
+    padding: 0;
+    background: #111;
+    color: #fff;
+    /* original 1400px; see A/B tests */
+    max-width: 1100px;
+}
+
+div#header h1 {
+    display: inline;
+    vertical-align: middle;
+}
+/* uppercase page title, all section headers; see A/B tests */
+h1, h2, h3, h4, h5 { text-transform: uppercase; }
+
+
+
+
+
+div#footer {
+    padding-top: 30px;
+    clear: both;
+    font-size: 90%;
+    text-align: center;
+}
+
+div#disqus_thread { padding-left: 0.5em; }
+
+a {
+    color: #ccc; /* off-black */
+    text-decoration: underline;
+}
+div#content a {
+    word-wrap: break-word; /* force the occasional inline URL or other long word to break at max-width */
+    /* how we implement grey underlining:
+       http://devhints.wordpress.com/2006/10/24/css-links-with-different-color-underlines/ */
+    text-decoration: none;
+    border-bottom: 1px Solid grey;
+}
+div#content {
+  text-align: justify;
+}
+
+h2 {
+    font-size: 120%;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 100%;
+    text-transform: uppercase;
+}
+
+blockquote {
+  background-color: #444;
+}
+
+div.column {
+    width: 50%;
+    float: left;
+}
+
+/* 'figure' because we don't want to force these settings on normal inline images, like those used in _Radiance_ */
+figure img {
+    display: block;
+    margin: 5px auto 5px auto;
+    border: none;
+
+    /* resize images based on browser width: 'fluid images'; see
+       http://unstoppablerobotninja.com/entry/fluid-images/
+       http://blog.kurtschindler.net/post/flexible-dynamically-resizing-images-with-css
+       http://stackoverflow.com/questions/787839/resize-image-proportionally-with-css */
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    /* see A/B tests */
+    list-style-type: square;
+/*    padding-left: 1em; */
+    margin-left: 1em;
+}
+
+code {
+    background-color: rgb(250, 250, 250);
+    border: 1px solid rgb(200, 200, 200);
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+pre code {
+    display: block;
+    padding: 8px;
+    margin-bottom: 2em;
+}
+
+p.caption {
+    display: none;
+}
+
+p { margin-top: -0.2em;
+    margin-bottom: 0 }
+
+/* how much to indent successive paragraphs; see A/B tests */
+p + p {
+    text-indent: 2em;
+    margin-top: 0 }
+
+p.hang { text-indent: -0.44em }
+
+.num { font-size: 85%; }
