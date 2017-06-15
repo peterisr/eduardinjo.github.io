@@ -26,4 +26,4 @@ markdown: kramdown
 #   outputs:
 #     pdf: '--latex-engine=pdflatex'
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
