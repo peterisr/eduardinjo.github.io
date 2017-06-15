@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 ---
@@ -123,3 +124,20 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+=======
+---
+layout: default
+title: Urrathon
+---
+# Welcome on Urrathon
+
+## Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+
+    </li>
+  {% endfor %}
+</ul>
+>>>>>>> 6a18b1b0a9e5ec955c4e40dd96adb5fc6ea0b6a2
