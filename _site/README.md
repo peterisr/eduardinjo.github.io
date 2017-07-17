@@ -4,6 +4,10 @@ cd /media/eduards/Data/Programming/eduardinjo.github.io
 bundle exec jekyll serve
 $ http://localhost:4000
 
+# Push changes
+git add --all
+git commit -m "Blog_changes"
+git push -u origin master
 
 # The Cayman theme
 
