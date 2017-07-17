@@ -4,6 +4,10 @@ title: About Urrathon.net
 last-updated: 14/11/2015
 status: draft
 ---
+
+{{ page.id }}
+
+
 ## Current issues:
 * Many unsupported statements
 * No structure

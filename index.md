@@ -3,6 +3,8 @@ layout: default
 title: Sākums
 ---
 [Name of Link]({{ site.baseurl }}{% post_url 2015-10-20-about %})
+{{ page.url }}
+{{ page.id }}
 
 
 
