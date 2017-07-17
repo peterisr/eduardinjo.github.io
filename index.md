@@ -2,7 +2,8 @@
 layout: default
 title: Sākums
 ---
-[Name of Link]({{ site.baseurl }}{% post_url 2015-10-20-about %})
+# Raksti
+[Vēsture ir politika]({{ site.baseurl }}{% post_url 2015-10-20-politika %})
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

@@ -10,6 +10,9 @@ git add --all
 git commit -m "Blog_changes"
 git push -u origin master
 
+# Editing style
+https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/
+
 # The Cayman theme
 
 [![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
