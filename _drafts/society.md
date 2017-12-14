@@ -1,0 +1,16 @@
+---
+layout: default
+title: Dzīvot kopā
+permalink: /society/
+comments: true
+---
+
+Valsts pārvalde ir bieži diskutēta, bet reti pārdomāta. Biežāk tiek izteikti viedokļi kādā specifiskā jautājumā nevis tās leģimitātē, mērķos un pieļaujamajā izpildījumā. Kāpēc tā vispār ir vajadzīga? Vai tad nevar iztikt bez tās kā agrīnās cilvēku ciltis vai vispār dzīvot anarhijā? Un ja tā ir vajadzīga vai lietderīga, tad kā to organizēt? Bet ja katram no mums ir savi atšķirīgi uzskati par šiem jautājumiem, tad kā rīkoties?
+
+Piemēram, Harolds uzskata, ka enerģijas dzērieni būtu jāaizliedz, jo ir kaitīgi veselībai. Reinis piekrīt, bet neatbalsta aizliegumu, uzskatot, ka katram ir tiesības izvērtēt savu risku. Turklāt, pat ja Harolds ar vairākumu cilvēku atbalstītu aizliegumu, Reinis neuzskatītu to par leģitīmu, jo tas nesakrīt ar viņa pārliecību par izvēles brīvību. Ar šo gribu pieminēt, ka ne tikai viedokļi var būt atšķirīgi, bet arī katra personīgā filozofija.
+
+ Katram cilvēkam ir savas vēlmes un prioritātes, bet dzīvojot vienam otram tuvumā radīsies interešu konflikti: viens un tas pats zemes pleķis nevar būt vienlaicīgi skola un parks. Vai [kolektīvās rīcības problēma](https://en.wikipedia.org/wiki/Collective_action#Collective_action_problem), kur mums visiem kopīgi būtu izdevīgi uzbūvēt ballistisko raķešu aizsardzības sistēmu, bet tie kuri nepiedalās izmaksu segšanā tāpat iegūst efektu.  Bet dažas civilizācijas izpausmes ir obligātas - nodokļi, likumi un regulas. Šīs normu noteikšana ir būtiska, jo var gan uzlabot apstākļus labklājības attīstībai, piemēram, regulējot pārtikas drošību vai arī tieši pretējo - pasargājot noteiktus uzņēmumus no konkurences, piemēram, ar dārgu un grūti iegūstamu licenci. Nodokļu iekasēšanas tiesības var tikt izmantotas arī ļoti nelietderīgi, piemēram, Habsburgu Impērija 98% no sava budžete izlietoja kariem 17gs. 
+
+ [The Origins of Political Order](https://en.wikipedia.org/wiki/The_Origins_of_Political_Order)
+
+Grāmatā [Guns, Germs and Steel](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel) aprakstīts, ka cilvēcas pirmsākumos (kā arī mūsdienās Jaungvinejā un Amazonē) šādas problēmas risināja cilts sanāksmēs, kur kopīgi debatēja un balsoja par lēmumiem. Arī draugu pulkā izvēloties kopīgu aktivitāti būtu diskusija kurā teorētiski visi ir vienlīdzīgi, bet mēs labi zinam, ka nereti dažu personību loma ir stipri lielāka kā citu. Ja lielā draugu pulkā debates liksies bezcerīgas, tad vairāku tūkstošu apdzīvotā pilsētā tās būs fiziski neiespējamas. Diskusija un kopīga vienošanās tik lielam cilvēku skaitam ir iespējama, ja katrs no pārstāvjiem patiesībā reprezentē vairāku cilvēku intereses. Piemēram, cilts var kopīgi ievēlēt uz noteiktu laiku tās pārstāvi. Vai arī kāds kļūst par vadoni ar tiesībām izlemt kopīgos lēmumus, piemēram, ar vardarbību vai pārliecinot par savu dievišķo sūtību. ["Saules Karaļa" Luija XIV](https://en.wikipedia.org/wiki/Louis_XIV_of_France) vērienīgi būvētā Verseļas pils visticamāk nesakrita ar pavalstnieku interesēm, kuriem nācās par to negribīgi maksāt. Un lai gan daudzās attīstītajās valstīs mēs politiķus atšķirībā no Luija XIV paši izvēlamies, tomēr cik daudzi viņi zin par mūsu vēlmēm/prioritātēm un ir spējīgi attiecīgi pārstāvēt?

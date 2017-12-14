@@ -4,6 +4,9 @@ cd /media/eduards/Data/Programming/eduardinjo.github.io
 bundle exec jekyll serve
 $ http://localhost:4000
 
+# For drafts -> --drafts
+
+
 # Push changes
 cd /media/eduards/Data/Programming/eduardinjo.github.io
 git add --all
