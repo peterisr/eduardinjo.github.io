@@ -2,3 +2,9 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+#index ul h1 a {
+  display: inline;
+  color: #159957;
+  transition: .3s background-color;
+}

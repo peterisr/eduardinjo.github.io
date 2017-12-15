@@ -807,3 +807,8 @@ a {
 
 .site-footer-credits {
   color: #819198; }
+
+#index ul h1 a {
+  display: inline;
+  color: #159957;
+  transition: .3s background-color; }
