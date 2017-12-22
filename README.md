@@ -1,5 +1,5 @@
 # Preview the blog locally
-## Install Jekyll prerequisites
+## Install prerequisites
 On Linux Ubuntu
 ```
 sudo apt-get install ruby ruby-dev make gcc
@@ -21,7 +21,6 @@ bundle exec jekyll serve --drafts
 ```
 
 # Push changes to github
-
 ```
 cd /path/to/eduardinjo.github.io
 git add --all
